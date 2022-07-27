@@ -1,2 +1,2 @@
 # CartoonConundrum
-![High Level Design](HLDesign ilograph.JPG)
+![High Level Design](HLDilograph.JPG)
