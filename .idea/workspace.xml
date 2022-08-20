@@ -5,9 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db13ec5d-cd5d-447a-8c60-99982d858746" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/albin/cartoonconundrum/bot/domain/Cartoon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/albin/cartoonconundrum/bot/domain/Cartoon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/albin/cartoonconundrum/bot/domain/ChannelRelation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/albin/cartoonconundrum/bot/domain/ChannelRelation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/albin/cartoonconundrum/bot/domain/Discord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/albin/cartoonconundrum/bot/domain/Discord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/albin/cartoonconundrum/bot/dynamodb/DynamoDBConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/albin/cartoonconundrum/bot/dynamodb/DynamoDBConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/albin/cartoonconundrum/bot/repo/CartoonRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/albin/cartoonconundrum/bot/repo/CartoonRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/albin/cartoonconundrum/bot/repo/ChannelRelationRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/albin/cartoonconundrum/bot/repo/ChannelRelationRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/albin/cartoonconundrum/bot/repo/DiscordRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/albin/cartoonconundrum/bot/repo/DiscordRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/albin/cartoonconundrum/bot/rest/CartoonRest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/albin/cartoonconundrum/bot/rest/CartoonRest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/albin/cartoonconundrum/bot/service/CartoonService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/albin/cartoonconundrum/bot/service/CartoonService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
